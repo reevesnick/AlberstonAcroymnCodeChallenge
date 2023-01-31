@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AcronymInitalismCodeChallenge</string>
+    <string name="search_hint">Please Input Abbr.</string>
+</resources>
